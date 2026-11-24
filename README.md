@@ -13,9 +13,9 @@ with Python and an internet connection can run any of it.
 
 | Group | Subject | Projects | How far it got |
 |---|---|---|---|
-| [Extreme-Value-Aware Synthetic Data Generator for Stress Testing](<Extreme-Value-Aware Synthetic Data Generator for Stress Testing/README.md>) | generating fake market histories that still contain real crashes | 2 | research prototype, working |
-| [Online Portfolio Selection](<Online Portfolio Selection/README.md>) | algorithms that rebalance a portfolio every day, plus a turning-point detector | 12 | finished, with two honest negative results |
-| [Time Series Analysis Toolkit](<Time Series Analysis Toolkit/README.md>) | small, single-question utilities | 7 | finished |
+| [Extreme-Value-Aware Synthetic Data Generator for Stress Testing](<Extreme-Value-Aware Synthetic Data Generator for Stress Testing/README.md>) | generating fake market histories that still contain real crashes | 2 | prototype available |
+| [Online Portfolio Selection](<Online Portfolio Selection/README.md>) | algorithms that rebalance a portfolio every day, plus a turning-point detector | 12 | new task ongoing |
+| [Time Series Analysis Toolkit](<Time Series Analysis Toolkit/README.md>) | small, single-question utilities | 7 | legacy |
 
 ## How to read this repository
 
